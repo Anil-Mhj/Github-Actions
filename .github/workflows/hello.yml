@@ -16,3 +16,6 @@ jobs:
 
       - name: Show current directory
         run: pwd
+
+      - name: Learning message
+        run: echo "I am learning Github Actions!"
